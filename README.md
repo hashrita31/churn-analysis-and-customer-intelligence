@@ -5,3 +5,4 @@ Customer Churn Analysis &amp; Customer Intelligence is a Python and SQL project 
 <img width="793" height="596" alt="image" src="https://github.com/user-attachments/assets/ca80ec32-bd0d-4b27-a736-d2dd63203d77" />
 <img width="990" height="558" alt="image" src="https://github.com/user-attachments/assets/7056f91d-b172-4b93-994b-7a60d3a07a2b" />
 <img width="964" height="533" alt="image" src="https://github.com/user-attachments/assets/a169f0ee-0ebe-4d96-9198-d302628d2d7c" />
+<img width="966" height="512" alt="image" src="https://github.com/user-attachments/assets/90078969-aa66-4288-a4a0-f84a8c14e023" />
